@@ -1,7 +1,5 @@
-ckan>=2.8.0
-ckanapi>=3,<4
+
 ckanext-dcat>=0.0.9
-ckanext-harvest>=1.1.4
 rdflib==4.2.1
 rdflib-jsonld==0.4.0
 pycountry>=17
